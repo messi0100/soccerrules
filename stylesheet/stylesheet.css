@@ -1,0 +1,53 @@
+body {
+	background-image:(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrVpR2B6UuRAl003X7yYP4r93ujcTodJequyFJflKnrILYQu40)
+	height:30vpx 30php
+	width:auto;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+
+}
+
+p {
+	font-size: 20px;
+}
+
+#para1{
+	text-align: center;
+	color: red;
+}
+.center{
+	text-align: center;
+	color: red
+}
+
+.navbar {
+	overflow: hidden;
+	background-color: #333;
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+.navbar a {
+float:  left;
+display: block;
+color: #f2f2f2;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px
+}
+
+.navbar a:hover{
+	background:#ddd;
+	color: black;
+}
+
+.main {
+	padding: 16px;
+	margin-top: 16px
+	height: 1500px;
+}
